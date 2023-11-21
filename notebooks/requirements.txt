@@ -1,0 +1,8 @@
+ipykernel
+matplotlib
+huggingface_hub
+sentencepiece
+transformers
+torch
+pandas
+
